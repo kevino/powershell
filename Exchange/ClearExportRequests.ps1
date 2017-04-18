@@ -1,0 +1,1 @@
+Get-MailboxExportRequest -Status Completed | Remove-MailboxExportRequest
