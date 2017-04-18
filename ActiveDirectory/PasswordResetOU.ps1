@@ -1,5 +1,4 @@
-﻿# ILSC.com/[Global Campus Locations]/[Australia]/[Sydney]/[User Accounts - Active]/Faculty/
-# Password Reset for all teachers
+﻿# Password Reset for all teachers
 #
 # WIP
 #
