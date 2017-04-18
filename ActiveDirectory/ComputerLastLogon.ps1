@@ -1,0 +1,1 @@
+Get-ADComputer -Filter * -Properties * | Sort LastLogonDate | FT CanonicalName, LastLogonDate -Wrap -Autosize | Out-File LastLogon\computerlastlogon.txt
